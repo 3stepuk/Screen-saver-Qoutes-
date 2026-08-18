@@ -1,0 +1,6 @@
+{
+  "name": "Axiom - Wisdom & Screensaver Studio",
+  "description": "Explore curated quotes from NLP, General Semantics, Systems Theory, Werner Erhard, Jesus, and Early Church Fathers with custom screensaver/wallpaper generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
